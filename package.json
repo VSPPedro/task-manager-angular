@@ -4,7 +4,7 @@
   "license": "MIT",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
+    "start": "ng serve --host 0.0.0.0 --port 8080 --public-host https://front-end-angular-udemy-pvspaiva.c9users.io/",
     "build": "ng build --prod",
     "test": "ng test",
     "lint": "ng lint",
